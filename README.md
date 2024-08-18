@@ -4,3 +4,4 @@ Este roteiro foi desenvolvido para te auxiliar durante os estudos em diferentes 
 
 ## Sumário
 1. [Front-End](https://github.com/joaopedrocosso/fullstack-roadmap/blob/main/FRONTEND.md)
+2. [Back-End](https://github.com/joaopedrocosso/fullstack-roadmap/blob/main/BACKEND.md)
